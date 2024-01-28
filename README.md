@@ -1,1 +1,2 @@
-# Analise_Explorat-ria_dos_dados.ipynb
+# Analise Exploratoria dos dado.
+
